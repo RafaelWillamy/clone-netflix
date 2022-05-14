@@ -1,3 +1,3 @@
-# clone-netflix-
-## Next.js, Tailwindcss, api
+# clone-netflix-Next.Js-Tailwindcss
+## Next.js, Tailwindcss, API TMBD
 clone-netflix-next.js-tailwindcss
